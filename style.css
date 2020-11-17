@@ -134,7 +134,7 @@ h3 {
 }
 .mugshot {
   display: false;
-  position: absolute;
+  position: static;
   margin: false;
   top: 50px;
   left: 70px;
@@ -246,7 +246,7 @@ h3 {
   background-color: #999;
 }
 .greyed {
-  background-color: #ddd;
+  background-color: #EEEEEE;
   width: 100%;
   max-width: 580px;
   text-align: center;
